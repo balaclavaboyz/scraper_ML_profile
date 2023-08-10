@@ -1,0 +1,6 @@
+# techs
+
+sqlite
+requests
+beautifulsoup
+
